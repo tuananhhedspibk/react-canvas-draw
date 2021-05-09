@@ -1,5 +1,5 @@
 /*!
- * react-canvas-draw v1.1.1 - https://embiem.github.io/react-canvas-draw/
+ * react-canvas-draw v1.1.2 - https://embiem.github.io/react-canvas-draw/
  * MIT Licensed
  */
 (function webpackUniversalModuleDefinition(root, factory) {
